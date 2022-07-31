@@ -1,5 +1,5 @@
 [![image](https://raw.githubusercontent.com/Wipadsaya11/Wipadsaya11/master/wiwi1.webp)](#)
-### Hi there 👋 Nice to see u.
+### Hi I'm MILD 👋 Nice to see u.
 
 - 😳 My name is: Wipadsaya Mansai
 - 🍒 Student id: 63365922
