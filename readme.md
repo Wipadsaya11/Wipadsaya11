@@ -9,6 +9,15 @@
 
 🌞[Instagram](https://www.instagram.com/MILD__WIMA)
 
+## Career interest
+-💻💽network engineer
+
+-🖥️🎛️Computer Systems Analyst
+
+-👨🏽‍💻 Web Developer
+
+-👷🏽‍♂️⚡Electrical Engineer
+
 
 ### Frameworks 
 <p align="left">
