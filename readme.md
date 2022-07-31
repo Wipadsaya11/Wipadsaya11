@@ -1,10 +1,14 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: Wipadsaya Mansai
-- ⚡ Student id: 63365922
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 😳 My name is: Wipadsaya Mansai
+- 🍒 Student id: 63365922
+- 🪐 I'm currently studying on Faculty of Engineering.
 
-## Developer Tech
+## My contact
+🌞[Facebook](https://www.facebook.com/wipadsaya.mansai)
+
+🌞[Instagram](https://www.instagram.com/MILD__WIMA)
+
 
 ### Frameworks 
 <p align="left">
