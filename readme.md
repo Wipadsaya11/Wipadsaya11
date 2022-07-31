@@ -4,12 +4,12 @@
 - 🍒 Student id: 63365922
 - 🪐 I'm currently studying on Faculty of Engineering.
 
-## My contact
+## My contact📞
 🌞[Facebook](https://www.facebook.com/wipadsaya.mansai)
 
 🌞[Instagram](https://www.instagram.com/MILD__WIMA)
 
-## Career interest
+## Career interest📑
 -💻💽network engineer
 
 -🖥️🎛️Computer Systems Analyst
@@ -17,6 +17,13 @@
 -👨🏽‍💻 Web Developer
 
 -👷🏽‍♂️⚡Electrical Engineer
+
+
+## Aptitude/Subject of interest🤖
+- Embedded Systems
+- Computer Programming
+- Electrical Circuit for Computer Engineering
+
 
 ### Languages 
 <p align="left">
@@ -47,10 +54,6 @@
 
 </P>
 
-## Aptitude/Subject of interest🤖
-- Embedded Systems
-- Computer Programming
-- Electrical Circuit for Computer Engineering
 
 ## Devices / Manufacturers
 <p align="left">
